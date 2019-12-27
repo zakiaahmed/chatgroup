@@ -24,7 +24,7 @@ public class dbOperations {
     }
 
     private final String USERNAME = "root";
-    private final String PASSWORD = "208907www";
+    private final String PASSWORD = "secret";
     private final String CON = "jdbc:mysql://localhost:3306/chatgroup?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=" + TimeZone.getDefault().getID();;
     private Connection con;
     private Statement stmt = null;
