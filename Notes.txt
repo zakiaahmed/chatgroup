@@ -1,0 +1,3 @@
+Add destructor to all
+    client.logoff();
+
